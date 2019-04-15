@@ -1,2 +1,2 @@
-# Implementing my Australian Birds classifier on [Render](https://render.com)
+Implementing my Australian Birds classifier on [Render](https://render.com)
 
